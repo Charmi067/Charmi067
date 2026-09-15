@@ -22,7 +22,6 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Sc. (CA&IT) Honours @ **Ganpat University, Gujarat** — graduating 2028
-- 💼 **Founding Team Member** @ [Kefilo](https://kefilo.com) — building a nutrition & food-tech mobile app
 - 🛠️ I build fullstack web and mobile apps, and deploy them with proper CI/CD
 - 🌱 Currently exploring: **TypeScript**, **Next.js**, and **AWS production deployments**
 - 📍 Based in Mehsana, Gujarat, India
