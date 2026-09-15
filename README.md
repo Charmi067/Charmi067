@@ -38,12 +38,6 @@
 - **DevOps:** Docker → AWS ECR → EC2 · GitHub Actions CI/CD · Terraform
 - 📹 [Watch CI/CD pipeline demo](https://youtu.be/IGNUVVjhbQ8)
 
-#### 🔐 Secure Password Manager *(in progress)*
-> Full-stack password manager with production-grade AWS security
-
-- **Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Auth.js
-- **AWS:** ECS Fargate · RDS · ALB · WAF · KMS · GuardDuty
-
 #### ⚙️ Production-Ready HA Web Infrastructure
 > Multi-AZ AWS infra with auto-scaling, load balancing, and automated CI/CD
 
